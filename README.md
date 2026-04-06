@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman</h1>
 <h3 align="center">Hardware & Firmware Engineer | Electronics & Electrical Communication Student at CUFE</h3>
 
-- 🔭 Currently working on **Extended Reality Glasses @ Muqla**
+- 🔭 Currently working on
+  - **Extended Reality Glasses @ Muqla**
   - **E-Bike extension kits @ KAIRO**
 - 🌱 Currently learning **RF PCB, HDI PCB, Rust, Embedded Linux, and Embedded Security**
 - 🛠️ Skilled in **Cortex-M, Automation Tools, RTOS (Zephyr and FreeRTOS), Altium, KiCad, ESP, and IoT**
