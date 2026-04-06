@@ -1,14 +1,27 @@
 <h1 align="center">Hey there! I'm Abdelrhman</h1>
 <h3 align="center">Hardware & Firmware Engineer | Electronics & Electrical Communication Student at CUFE</h3>
 
-- 🔭 Currently working on
-  - **Extended Reality Glasses @ Muqla**
-  - **E-Bike extension kits @ KAIRO**
-- 🌱 Currently learning **RF PCB, HDI PCB, Rust, Embedded Linux, and Embedded Security**
-- 🛠️ Skilled in **Cortex-M, Automation Tools, RTOS (Zephyr and FreeRTOS), Altium, KiCad, ESP, and IoT**
-- 💼 Open for **Freelancing**
-- 📫 How to reach me **abdelrhmatta@gmail.com**
-- ⚡ Enjoying it!
+* 🔭 Currently working on
+  * **Extended Reality Glasses @ Muqla**
+  * **E-Bike extension kits @ KAIRO**
+* 🌱 Learning
+  * **RF PCB**
+  * **HDI PCB**
+  * **Rust**
+  * **Embedded Linux**
+  * **Embedded Security**
+* 🛠️ Skilled in
+  * **Cortex-M & nRF & Silicon Labs**
+  * **RTOS (Zephyr & FreeRTOS)**
+  * **Ultra-Low Power Systems**
+  * **Motor Control & BMS**
+  * **TinyML**
+  * **IoT & ESP**
+  * **Altium & KiCad**
+  * **MATLAB & Automation Tools**
+* 💼 Open for **Freelancing**
+* 📫 How to reach me **abdelrhmatta@gmail.com**
+* ⚡ Enjoying it!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
