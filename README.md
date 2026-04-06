@@ -21,7 +21,7 @@
   * **Altium & KiCad**
   * **MATLAB & Automation**
 * 📫 **abdelrhmatta@gmail.com**
-* ⚡ Enjoying it!
+⚡ Enjoying it!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
