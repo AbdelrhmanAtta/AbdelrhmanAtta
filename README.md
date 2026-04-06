@@ -10,8 +10,8 @@
   * **Rust**
   * **Embedded Linux**
   * **Embedded Security**
-* 🛠️ Skilled in
-  * **Cortex-M & ST & nRF & Silicon Labs**
+* 🛠️ Worked with
+  * **Cortex-M & ST & nRF & Silicon Labs & TI**
   * **RISC-V**
   * **ESP**
   * **RTOS (Zephyr & FreeRTOS)**
@@ -21,8 +21,9 @@
   * **IoT**
   * **Altium & KiCad**
   * **MATLAB & Automation**
+  * **VNA & Oscilloscope & JTAG & Logic Analyser**
 * 📫 **abdelrhmatta@gmail.com**
-* ♟️ Down to play chess 🙂
+* ♟️ Wanna play chess?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
