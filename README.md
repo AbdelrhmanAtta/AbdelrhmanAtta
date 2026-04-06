@@ -13,15 +13,16 @@
 * 🛠️ Skilled in
   * **Cortex-M & ST & nRF & Silicon Labs**
   * **RISC-V**
+  * **ESP**
   * **RTOS (Zephyr & FreeRTOS)**
   * **Ultra-Low Power Systems**
   * **Motor Control & BMS**
   * **TinyML**
-  * **IoT & ESP**
+  * **IoT**
   * **Altium & KiCad**
   * **MATLAB & Automation**
 * 📫 **abdelrhmatta@gmail.com**
-* ♟️ Down to play chess :)
+* ♟️ Down to play chess 🙂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
