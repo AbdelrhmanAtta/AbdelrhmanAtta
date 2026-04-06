@@ -18,7 +18,7 @@
   * **Ultra-Low Power Systems**
   * **Motor Control & BMS**
   * **TinyML**
-  * **IoT**
+  * **IoT & BLE**
   * **Altium & KiCad**
   * **MATLAB & Automation**
   * **VNA & Oscilloscope & JTAG & Logic Analyser**
