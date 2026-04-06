@@ -11,16 +11,16 @@
   * **Embedded Linux**
   * **Embedded Security**
 * 🛠️ Skilled in
-  * **Cortex-M & nRF & Silicon Labs**
+  * **Cortex-M & ST & nRF & Silicon Labs**
+  * **RISC-V**
   * **RTOS (Zephyr & FreeRTOS)**
   * **Ultra-Low Power Systems**
   * **Motor Control & BMS**
   * **TinyML**
   * **IoT & ESP**
   * **Altium & KiCad**
-  * **MATLAB & Automation Tools**
-* 💼 Open for **Freelancing**
-* 📫 How to reach me **abdelrhmatta@gmail.com**
+  * **MATLAB & Automation**
+* 📫 **abdelrhmatta@gmail.com**
 * ⚡ Enjoying it!
 
 <h3 align="left">Connect with me:</h3>
