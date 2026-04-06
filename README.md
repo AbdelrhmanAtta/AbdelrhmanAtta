@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Extended Reality Glasses @ Muqla** and **E-Bike extension kits @ KAIRO**
 - 🌱 I’m currently learning **RF PCB, HDI PCB, Rust, Embedded Linux, and Embedded Security**
+- 🛠️ Skilled in **Cortex-M, Automation Tools, RTOS (Zephyr and FreeRTOS), Altium, KiCad, ESP, and IoT**
+- 💼 Open for **Freelancing**
 - 📫 How to reach me **abdelrhmatta@gmail.com**
 - ⚡ Enjoying it!
 
