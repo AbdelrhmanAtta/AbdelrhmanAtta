@@ -2,8 +2,6 @@
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqMnN2ZWl5OXZlcmRpNnp1MDBjZmYyMDc2c3JyNXU0bXBoOXZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0JwIBup9zXpmLYXgQP/giphy.gif"  />
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/aaatta/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -11,40 +9,45 @@
   <a href="https://discord.com/users/1291828109019975742" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="abdelrhmatta@gmail.com" target="_blank">
+  <a href="mailto:abdelrhmatta@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abdelrhmanatta.abdelrhmanatta&"  />
 </div>
 
-###
-
 <h1 align="center">Abdelrhman here, I turn caffeine into firmware.</h1>
-
-###
 
 <h3 align="center">Hardware & Firmware Engineer | Electronics & Electrical Communication Student at CUFE</h3>
 
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
-###
+### 🔭 Currently Developing
+- 🕶️ **Extended Reality Glasses** @ Muqla
+- 🚲 **E-Bike Extension Kits** @ KAIRO
 
-<p align="left">🔭 Currently Developing<br><br>    🕶️ Extended Reality Glasses @ Muqla<br><br>    🚲 E-Bike Extension Kits @ KAIRO<br>🛠️ Technical Stack<br><br>    📟 Silicon: Cortex-M (ST, nRF, SiLabs, TI), RISC-V, ESP<br><br>    ⚙️ Systems: Zephyr RTOS, FreeRTOS, TinyML, MATLAB<br><br>    🔋 Power: Ultra-Low Power Systems, Motor Control, BMS<br><br>    📡 Wireless: IoT & BLE, RF & HDI PCB Design<br><br>    📐 Tools: Altium, KiCad, VNA, JTAG, Logic Analyser<br><br>🌱 Learning Pipeline<br><br>    🛰️ RF & HDI PCB Layout<br><br>    🦀 Rust for Embedded<br><br>    🐧 Embedded Linux<br><br>    🔐 Embedded Security<br><br>🏁 Connect<br><br>    📧 Email: abdelrhmatta@gmail.com<br><br>    ♟️ Chess: Ready for a challenge?</p>
+### 🛠️ Technical Stack
+- 📟 **Silicon:** Cortex-M (ST, nRF, SiLabs, TI), RISC-V, ESP
+- ⚙️ **Systems:** Zephyr RTOS, FreeRTOS, TinyML, MATLAB
+- 🔋 **Power:** Ultra-Low Power Systems, Motor Control, BMS
+- 📡 **Wireless:** IoT & BLE, RF & HDI PCB Design
+- 📐 **Tools:** Altium, KiCad, VNA, JTAG, Logic Analyser
 
-###
+### 🌱 Learning Pipeline
+- 🛰️ **RF & HDI PCB Layout**
+- 🦀 **Rust for Embedded**
+- 🐧 **Embedded Linux**
+- 🔐 **Embedded Security**
+
+### 🏁 Connect
+- 📧 **Email:** abdelrhmatta@gmail.com
+- ♟️ **Chess:** Ready for a challenge?
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -72,14 +75,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abdelrhmanatta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
