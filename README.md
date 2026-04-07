@@ -1,47 +1,90 @@
-<h1 align="center">Hey there! I'm Abdelrhman</h1>
-<h3 align="center">Hardware & Firmware Engineer | Electronics & Electrical Communication Student at CUFE</h3>
+\<div align="center"\>
+\<img height="150" src="[https://www.google.com/search?q=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqMnN2ZWl5OXZlcmRpNnp1MDBjZmYyMDc2c3JyNXU0mXBoOXZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0JwIBup9zXpmLYXgQP/giphy.gif](https://www.google.com/search?q=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqMnN2ZWl5OXZlcmRpNnp1MDBjZmYyMDc2c3JyNXU0mXBoOXZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0JwIBup9zXpmLYXgQP/giphy.gif)" /\>
+\</div\>
 
-* 🔭 Currently working on
-  * **Extended Reality Glasses @ Muqla**
-  * **E-Bike extension kits @ KAIRO**
-* 🌱 Learning
-  * **RF PCB**
-  * **HDI PCB**
-  * **Rust**
-  * **Embedded Linux**
-  * **Embedded Security**
-* 🛠️ Worked with
-  * **Cortex-M & ST & nRF & Silicon Labs & TI**
-  * **RISC-V**
-  * **ESP**
-  * **RTOS (Zephyr & FreeRTOS)**
-  * **Ultra-Low Power Systems**
-  * **Motor Control & BMS**
-  * **TinyML**
-  * **IoT & BLE**
-  * **Altium & KiCad**
-  * **MATLAB & Automation**
-  * **VNA & Oscilloscope & JTAG & Logic Analyser**
-* 📫 **abdelrhmatta@gmail.com**
-* ♟️ Wanna play chess?
+\<div align="center"\>
+\<a href="[https://www.linkedin.com/in/aaatta/](https://www.linkedin.com/in/aaatta/)" target="\_blank"\>
+\<img src="[https://img.shields.io/static/v1?message=LinkedIn](https://img.shields.io/static/v1?message=LinkedIn)\&logo=linkedin\&label=\&color=0077B5\&logoColor=white\&labelColor=\&style=for-the-badge" height="25" alt="linkedin logo" /\>
+\</a\>
+\<a href="[https://discord.com/users/1291828109019975742](https://discord.com/users/1291828109019975742)" target="\_blank"\>
+\<img src="[https://img.shields.io/static/v1?message=Discord](https://img.shields.io/static/v1?message=Discord)\&logo=discord\&label=\&color=7289DA\&logoColor=white\&labelColor=\&style=for-the-badge" height="25" alt="discord logo" /\>
+\</a\>
+\<a href="mailto:abdelrhmatta@gmail.com" target="\_blank"\>
+\<img src="[https://img.shields.io/static/v1?message=Gmail](https://img.shields.io/static/v1?message=Gmail)\&logo=gmail\&label=\&color=D14836\&logoColor=white\&labelColor=\&style=for-the-badge" height="25" alt="gmail logo" /\>
+\</a\>
+\</div\>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aaatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaatta" height="30" width="40" /></a>
-</p>
+\<div align="center"\>
+\<img src="[https://visitor-badge.laobi.icu/badge?page](https://visitor-badge.laobi.icu/badge?page)\_id=abdelrhmanatta.abdelrhmanatta&" /\>
+\</div\>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
+\<h1 align="center"\>Abdelrhman here, I turn caffeine into firmware.\</h1\>
+
+\<h3 align="center"\>Hardware & Firmware Engineer | Electronics & Electrical Communication Student at CUFE\</h3\>
+
+\<div\>
+\<img style="width: 100%" src="[https://capsule-render.vercel.app/api?type=waving](https://capsule-render.vercel.app/api?type=waving)\&height=100\&section=footer\&reversal=false\&fontSize=70\&fontColor=FFFFFF\&fontAlign=50\&fontAlignY=50\&stroke=-\&descSize=20\&descAlign=50\&descAlignY=50\&textBg=false\&theme=tokyonight" /\>
+\</div\>
+
+### 🔭 Currently Developing
+
+  * 🕶️ **Extended Reality Glasses** @ Muqla
+  * 🚲 **E-Bike Extension Kits** @ KAIRO
+
+### 🛠️ Technical Stack
+
+  * 📟 **Silicon:** Cortex-M (ST, nRF, SiLabs, TI), RISC-V, ESP
+  * ⚙️ **Systems:** Zephyr RTOS, FreeRTOS, TinyML, MATLAB
+  * 🔋 **Power:** Ultra-Low Power Systems, Motor Control, BMS
+  * 📡 **Wireless:** IoT & BLE, RF & HDI PCB Design
+  * 📐 **Tools:** Altium, KiCad, VNA, JTAG, Logic Analyser
+
+### 🌱 Learning Pipeline
+
+  * 🛰️ **RF & HDI PCB Layout**
+  * 🦀 **Rust for Embedded**
+  * 🐧 **Embedded Linux**
+  * 🔐 **Embedded Security**
+
+### 🏁 Connect
+
+  * 📧 **Email:** abdelrhmatta@gmail.com
+  * ♟️ **Chess:** Ready for a challenge?
+
+\<h3 align="left"\>🛠 Language and tools\</h3\>
+
+\<div align="left"\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)" height="40" alt="cplusplus logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)" height="40" alt="c logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg)" height="40" alt="rust logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg)" height="40" alt="matlab logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)" height="40" alt="bash logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg)" height="40" alt="arduino logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" height="40" alt="git logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg)" height="40" alt="labview logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)" height="40" alt="linux logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg)" height="40" alt="markdown logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg)" height="40" alt="raspberrypi logo" /\>
+\<img width="12" /\>
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg)" height="40" alt="vim logo" /\>
+\</div\>
+
+\<h3 align="left"\>🔥 My Stats :\</h3\>
+
+\<div align="center"\>
+\<img src="[https://streak-stats.demolab.com?user=abdelrhmanatta](https://streak-stats.demolab.com?user=abdelrhmanatta)\&locale=en\&mode=daily\&theme=dark\&hide\_border=false\&border\_radius=5\&order=3" height="220" alt="streak graph" /\>
+\</div\>
+
+\<div align="center"\>
+\<img src="[https://spotify-recently-played-readme.vercel.app/api?count=5](https://spotify-recently-played-readme.vercel.app/api?count=5)" alt="Spotify recently played" /\>
+\</div\>
