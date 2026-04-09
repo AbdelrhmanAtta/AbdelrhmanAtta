@@ -14,10 +14,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdelrhmanatta.abdelrhmanatta&"  />
-</div>
-
 <h1 align="center">Abdelrhman here, I turn caffeine into firmware.</h1>
 <h4 align="center">I use Arch btw.</h4>
 
