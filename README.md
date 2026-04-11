@@ -30,9 +30,9 @@
 ### 🛠️ Technical Stack
 - 📟 **Silicon:** Cortex-M (ST, nRF, SiLabs, TI), RISC-V, ESP
 - ⚙️ **Systems:** Zephyr RTOS, FreeRTOS, TinyML, MATLAB
-- 🔋 **Power:** Ultra-Low Power Systems, Motor Control, BMS
 - 📡 **Wireless:** IoT & BLE, RF & HDI PCB Design
 - 📐 **Tools:** Altium, KiCad, VNA, JTAG, Logic Analyser
+- 🔋 **Power:** Ultra-Low Power Systems, Motor Control, BMS
 
 ### 🌱 Learning Pipeline
 - 🛰️ **RF & HDI PCB Layout**
