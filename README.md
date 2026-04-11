@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h1 align="center">Abdelrhman here, I turn caffeine into firmware.</h1>
+<h1 align="center">Abdelrhman here, and he turns caffeine into firmware!</h1>
 <h4 align="center">I use Arch btw.</h4>
 
 <h3 align="center">Hardware & Firmware Engineer | Electronics & Electrical Communication Student at CUFE</h3>
