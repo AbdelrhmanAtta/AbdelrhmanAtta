@@ -12,6 +12,9 @@
   <a href="mailto:abdelrhmatta@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://codeforces.com/profile/AbdelrhmanAtta" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
+  </a>
 </div>
 
 <h1 align="center">Abdelrhman here, and he turns caffeine into firmware!</h1>
