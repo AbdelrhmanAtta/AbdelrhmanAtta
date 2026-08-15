@@ -1,33 +1,32 @@
-<a href="https://github.com/AbdelrhmanAtta">
-  <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqMnN2ZWl5OXZlcmRpNnp1MDBjZmYyMDc2c3JyNXU0bXBoOXZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0JwIBup9zXpmLYXgQP/giphy.gif" alt="investigating" />
-</a>
+<div>
+  <a href="https://github.com/AbdelrhmanAtta">
+    <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqMnN2ZWl5OXZlcmRpNnp1MDBjZmYyMDc2c3JyNXU0bXBoOXZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0JwIBup9zXpmLYXgQP/giphy.gif" alt="investigating" />
+  </a>
 
-<p align="left">
-  Systems engineer obsessed with the boundary where silicon meets code. Specializing in RISC-V architecture, compiler engineering, and low-level system bring-up across Linux and RTOS environments.
-</p>
+  <p align="left">
+    Systems engineer obsessed with the boundary where silicon meets code. Specializing in RISC-V architecture, compiler engineering, and low-level system bring-up across Linux and RTOS environments.
+  </p>
+  
+  <br>
 
-<br><br><br><br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aaatta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com/users/1291828109019975742" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-  <a href="mailto:abdelrhmatta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://codeforces.com/profile/AbdelrhmanAtta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
-  </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/aaatta/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    </a>
+    <a href="https://discord.com/users/1291828109019975742" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+    </a>
+    <a href="mailto:abdelrhmatta@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    </a>
+    <a href="https://codeforces.com/profile/AbdelrhmanAtta" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
+    </a>
+  </p>
 </div>
 
-<h1 align="center">Abdelrhman here, and he turns caffeine into firmware!</h1>
-<h4 align="center">I use Arch btw.</h4>
-<h4 align="center">Also I hate CISC a lot &lt;3.</h4>
-
-<h3 align="center">Systems Software Engineer</h3>
+<br clear="both">
+<br>
 
 <div>
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" alt="footer wave" />
