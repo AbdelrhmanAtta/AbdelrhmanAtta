@@ -1,9 +1,12 @@
-<div>
-  <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqMnN2ZWl5OXZlcmRpNnp1MDBjZmYyMDc2c3JyNXU0bXBoOXZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0JwIBup9zXpmLYXgQP/giphy.gif" alt="Investigating GIF" />
-  <p>Systems engineer obsessed with the boundary where silicon meets code. Specializing in RISC-V architecture, compiler engineering, and low-level system bring-up across Linux and RTOS environments.</p>
-</div>
+<a href="https://github.com/AbdelrhmanAtta">
+  <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqMnN2ZWl5OXZlcmRpNnp1MDBjZmYyMDc2c3JyNXU0bXBoOXZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0JwIBup9zXpmLYXgQP/giphy.gif" alt="investigating" />
+</a>
 
-<br clear="both">
+<p align="left">
+  Systems engineer obsessed with the boundary where silicon meets code. Specializing in RISC-V architecture, compiler engineering, and low-level system bring-up across Linux and RTOS environments.
+</p>
+
+<br><br><br><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aaatta/" target="_blank">
@@ -22,7 +25,7 @@
 
 <h1 align="center">Abdelrhman here, and he turns caffeine into firmware!</h1>
 <h4 align="center">I use Arch btw.</h4>
-<h4 align="center">Also I hate CISC a lot <3.</h4>
+<h4 align="center">Also I hate CISC a lot &lt;3.</h4>
 
 <h3 align="center">Systems Software Engineer</h3>
 
@@ -63,5 +66,5 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdelrhmanatta&amp;locale=en&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border_radius=5&amp;order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=AbdelrhmanAtta&amp;locale=en&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border_radius=5&amp;order=3" height="220" alt="streak graph" />
 </div>
