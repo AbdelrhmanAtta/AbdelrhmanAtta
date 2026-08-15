@@ -20,32 +20,11 @@
 <h1 align="center">Abdelrhman here, and he turns caffeine into firmware!</h1>
 <h4 align="center">I use Arch btw.</h4>
 
-<h3 align="center">Hardware & Firmware Engineer | Electronics & Electrical Communication Student at CUFE</h3>
+<h3 align="center">Systems Software Engineer</h3>
 
 <div>
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
-
-### 🔭 Currently Developing
-- 🕶️ **Extended Reality Glasses** @ Muqla
-- 🚲 **E-Bike Extension Kits** @ KAIRO
-
-### 🛠️ Technical Stack
-- 📟 **Silicon:** Cortex-M (ST, nRF, SiLabs, TI), RISC-V, ESP
-- ⚙️ **Systems:** Zephyr RTOS, FreeRTOS, TinyML, MATLAB
-- 📡 **Wireless:** IoT & BLE, RF & HDI PCB Design
-- 📐 **Tools:** Altium, KiCad, VNA, JTAG, Logic Analyser
-- 🔋 **Power:** Ultra-Low Power Systems, Motor Control, BMS
-
-### 🌱 Learning Pipeline
-- 🛰️ **RF & HDI PCB Layout**
-- 🦀 **Rust for Embedded**
-- 🐧 **Embedded Linux**
-- 🔐 **Embedded Security**
-
-### 🏁 Connect
-- 📧 **Email:** abdelrhmatta@gmail.com
-- ♟️ **Chess:** Ready for a challenge?
 
 <h3 align="left">🛠 Language and tools</h3>
 
