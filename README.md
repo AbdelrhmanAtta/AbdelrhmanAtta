@@ -1,5 +1,6 @@
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqMnN2ZWl5OXZlcmRpNnp1MDBjZmYyMDc2c3JyNXU0bXBoOXZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0JwIBup9zXpmLYXgQP/giphy.gif"  />
+<div>
+  <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRqMnN2ZWl5OXZlcmRpNnp1MDBjZmYyMDc2c3JyNXU0bXBoOXZnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0JwIBup9zXpmLYXgQP/giphy.gif"  />
+  <p>Systems engineer obsessed with the boundary where silicon meets code. Specializing in RISC-V architecture, compiler engineering, and low-level system bring-up across Linux and RTOS environments.</p>
 </div>
 
 <div align="center">
@@ -19,6 +20,7 @@
 
 <h1 align="center">Abdelrhman here, and he turns caffeine into firmware!</h1>
 <h4 align="center">I use Arch btw.</h4>
+<h4 align="center">Also I hate CISC a lot <3.</h4>
 
 <h3 align="center">Systems Software Engineer</h3>
 
